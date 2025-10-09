@@ -1,0 +1,31 @@
+{
+  "file_id": "69ce8fbb-a36f-49b0-bf70-e78c5eaf28c7",
+  "redaction_timestamp": "2025-10-09T08:36:05.510123",
+  "redacted_items": {
+    "Email": [
+      "alice@example.com",
+      "bob@example.com",
+      "bob@example.com",
+      "charlie@example.com",
+      "charlie@example.com",
+      "david@example.com",
+      "eva@example.com",
+      "robert@example.com",
+      "aisha@example.com",
+      "aisha@example.com",
+      "anil@example.com",
+      "pooja@example.com",
+      "rakesh@example.com",
+      "fatima@example.com",
+      "example@example.com",
+      "kiran@example.com",
+      "ritika@example.com"
+    ]
+  },
+  "summary": {
+    "total_redacted": 17,
+    "by_type": {
+      "Email": 17
+    }
+  }
+}

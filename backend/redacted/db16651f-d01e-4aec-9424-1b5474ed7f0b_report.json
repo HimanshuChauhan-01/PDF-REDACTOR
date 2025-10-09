@@ -1,0 +1,15 @@
+{
+  "file_id": "db16651f-d01e-4aec-9424-1b5474ed7f0b",
+  "redaction_timestamp": "2025-10-09T09:18:38.089151",
+  "redacted_items": {
+    "Bank_Account": [
+      "123134543212"
+    ]
+  },
+  "summary": {
+    "total_redacted": 1,
+    "by_type": {
+      "Bank_Account": 1
+    }
+  }
+}

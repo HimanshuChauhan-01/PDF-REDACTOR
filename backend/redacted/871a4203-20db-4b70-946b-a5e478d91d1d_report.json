@@ -1,0 +1,19 @@
+{
+  "file_id": "871a4203-20db-4b70-946b-a5e478d91d1d",
+  "redaction_timestamp": "2025-10-09T08:40:34.564757",
+  "redacted_items": {
+    "Aadhaar": [
+      "123456786443"
+    ],
+    "Bank_Account": [
+      "123456786443"
+    ]
+  },
+  "summary": {
+    "total_redacted": 2,
+    "by_type": {
+      "Aadhaar": 1,
+      "Bank_Account": 1
+    }
+  }
+}
